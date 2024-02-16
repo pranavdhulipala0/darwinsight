@@ -1,0 +1,6 @@
+[submodule "darwinsight-frontend"]
+	path = darwinsight-frontend
+	url = https://github.com/pranavdhulipala0/darwinsight-frontend
+[submodule "darwinsight-backend"]
+	path = darwinsight-backend
+	url = https://github.com/pranavdhulipala0/darwinsight-backend
